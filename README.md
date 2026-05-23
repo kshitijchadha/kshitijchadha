@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kshitij Chadha</h1>
-<h3 align="center">A second year Computer Science student at Toronto Metropolitan University. I am a cybersecurity and AI enthusiast and seeking summer 2025 Co-op/Internships.</h3>
+<h3 align="center">A third year Computer Science student at Toronto Metropolitan University. I am a cybersecurity, AI and ML enthusiast.</h3>
 
-- 🔭 I’m currently working on **Password Manager**
+- 🔭 I’m currently working at **TD BANK**
 
-- 🤝 I’m looking for **guidance in the cybersecurity and AI.**
-
-- 📫 How to reach me **kshitij.chadha@torontomu.ca**
+- 📫 How to reach me **kshitijchadha777@gmail.com**
 
 - ⚡ Fun fact **I love to workout!**
 
