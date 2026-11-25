@@ -4,7 +4,7 @@
 
 I'm a Computer Science student specializing in Cybersecurity, with hands-on experience in enterprise security engineering, vulnerability management, and security automation.
 
-I've completed two cybersecurity internships at **TD Bank**, working on security tooling, infrastructure visibility, vulnerability investigations, and Python/Ansible automation. I also have software engineering experience building secure backend applications and AI-powered platforms.
+I've completed three cybersecurity internships at **TD Bank**, working on security tooling, infrastructure visibility, vulnerability investigations, and Python/Ansible automation. I also have software engineering experience building secure backend applications and AI-powered platforms.
 
 I'm particularly interested in security engineering, cloud security, threat detection, and building tools that make security operations more effective.
 
